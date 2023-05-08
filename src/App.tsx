@@ -3,7 +3,7 @@ import reactLogo from './assets/react.svg'
 import './App.css'
 
 function App() {
-  const [count, setCount] = useState(1)
+  const [count, setCount] = useState(25)
 
   return (
     <div className="App">
